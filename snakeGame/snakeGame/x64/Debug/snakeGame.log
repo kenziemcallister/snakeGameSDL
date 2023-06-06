@@ -1,0 +1,6 @@
+﻿  game.c
+C:\Users\macke\OneDrive\Documents\snakeGame\snakeGame\game.c(6,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.c
+C:\Users\macke\OneDrive\Documents\snakeGame\snakeGame\main.c(184,12): warning C4026: function declared with formal parameter list
+  Generating Code...
+  snakeGame.vcxproj -> C:\Users\macke\OneDrive\Documents\snakeGame\x64\Debug\snakeGame.exe
